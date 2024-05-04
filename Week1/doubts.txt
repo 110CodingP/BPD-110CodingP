@@ -1,0 +1,3 @@
+//errata: Bitcoin treats the hash as an integer and requires that it be less than a specified integer, which effectively allows a fractional number of bits to be specified.
+//if we could somehow quantify stuff in terms of time and not CPU Power then that would help a lot in decentralization ig...
+Pruned Nodes have UTXO so can verify

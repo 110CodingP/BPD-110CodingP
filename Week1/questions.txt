@@ -1,0 +1,14 @@
+What role do SPV nodes play in the ecosystem?
+ 1. SPV(simplified payment verification) Nodes : 
+  do they store block data?
+  can they validate txns?
+  what is their use?
+  what hazards do they pose?
+  sybil attack?
+  alert system?(DOS attack?)
+  full nodes are gold standard?
+Why did Satoshi remain anonymous and did not take profit in Bitcoin?
+  maybe because of decentrilization?
+  cuz otherwise a lot of centrilization would of happen and he 
+  would have a lot of say 
+  //maybe would control the market price ???
